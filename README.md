@@ -7,3 +7,4 @@
 # Things to Know:
 * main.cpp is the driver and holds code for the game.
 * Methods holds classes and functions used in backend.
+* You need the latest SFML library version to run.
